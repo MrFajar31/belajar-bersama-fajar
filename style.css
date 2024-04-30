@@ -608,7 +608,7 @@ opacity: 0.5;
   }
 }
 /* media queries */
-/* mobile */
+/* mobile 375px x 740px */
 @media (max-width: 375.9px){
   html{
     font-size: 75%;
@@ -656,11 +656,11 @@ opacity: 0.5;
     display: block;
     position: absolute;
     height: 30%;
-    top: 66rem;
+    top: 64rem;
     width: 100%;
     box-sizing: border-box;
     left: -0.2px;
-    background: linear-gradient(to bottom, rgba(1,1,3,1) 0%, rgba(255,255,255,0)100%);
+    background: linear-gradient(to bottom, rgba(1,1,3,1) 30%, rgba(255,255,255,0)100%);
   }
   .face2{
     height: 20rem;
