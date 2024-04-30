@@ -695,6 +695,9 @@ opacity: 0.5;
     border-radius: 3rem;
     margin: 2px;
   }
+  footer{
+    padding-bottom: 15rem;
+  }
   footer h4{
     margin: 0;
   }
